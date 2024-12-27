@@ -1,0 +1,8 @@
+/home/anastacia/Documents/453502/ОАиП/LR8/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/anastacia/Documents/453502/ОАиП/LR8/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/anastacia/Documents/453502/ОАиП/LR8/cmake-build-debug/Task_1/CMakeFiles/Task_1.dir
+/home/anastacia/Documents/453502/ОАиП/LR8/cmake-build-debug/Task_1/CMakeFiles/edit_cache.dir
+/home/anastacia/Documents/453502/ОАиП/LR8/cmake-build-debug/Task_1/CMakeFiles/rebuild_cache.dir
+/home/anastacia/Documents/453502/ОАиП/LR8/cmake-build-debug/Task_2/CMakeFiles/Task_2.dir
+/home/anastacia/Documents/453502/ОАиП/LR8/cmake-build-debug/Task_2/CMakeFiles/edit_cache.dir
+/home/anastacia/Documents/453502/ОАиП/LR8/cmake-build-debug/Task_2/CMakeFiles/rebuild_cache.dir
